@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata SENDERO HORIZONTES - LAS MOYAS 02 de ABRIL de 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata SENDERO HORIZONTES - LAS MOYAS Domingo 28 de mayo de 2017</div>
 
                     </div>
 <br>
@@ -76,11 +76,14 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero se encuentra ubicado en la localidad de Chapinero, entre la calle 76 con av. circunvalar, limita al norte con la localidad de Usaquén y al sur con la localidad de santa fe.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en la localidad de Chapinero, entre la calle 76 con av. circunvalar y el Barrio San Luis vía a la Calera, limita al norte con la localidad de Usaquén y al sur con la localidad de santa fe.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la calle 76 con Av. Circunvalar CAI Rosales, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento hacia el inicio del sendero Horizontes, se continua por el sendero hasta la parte alta llegando al páramo, allí se hace un receso y luego se inicia el retorno al cai de Rosales donde termina la actividad.</font></p>
+                        <p><font size="3">El recorrido da inicio en la calle 76 con Av. Circunvalar CAI Rosales, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad. Desde allí se realiza el desplazamiento hacia el inicio del sendero Horizontes, se continua por el sendero hasta la parte alta llegando al páramo, en el recorrido se pasa por tres antenas que nos conducen finalmente a las moyas.
+                        Las moyas son formaciones rocosas que fueron centro astronómico muisca, en este lugar los iniciados como “CHIQUIS”, o sacerdotes muiscas (chamanes) recorrían parte de su camino espiritual para consagrarse como líderes religiosos. En este sitio eran puestos a prueba mental física y emocionalmente. 
+                        La caminata termina en el barrio San Luis vía la Calera donde se toma el SITP que nos lleva a la calle 72.
+.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
@@ -88,6 +91,7 @@
                             <li>Miradores</li>
                             <li>Ecosistema de Sub-páramo</li>
                             <li>Ecosistema de Páramo</li>
+                            <li>Las Moyas</li>
                             </font>
                         </ul>
                         <br>
@@ -108,7 +112,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>CAI Rosales Av. Circunvalar calle 76 </p>
+                                            <p>CAI Rosales Av. Circunvalar calle 76  </p>
 
                                         </td>
 
@@ -124,7 +128,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 02 de Abril de 2017</p>
+                                            <p>Domingo 28 de mayo de 2017</p>
 
                                         </td>
 
@@ -140,7 +144,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>7:00 a.m</p>
+                                            <p>8:00 a.m</p>
 
                                         </td>
 
@@ -156,7 +160,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>50 Personsa</p>
+                                            <p>40 Personsa</p>
 
                                         </td>
 
@@ -172,7 +176,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>13 - 60 años</p>
+                                            <p>12 - 60 años</p>
 
                                         </td>
 
@@ -219,7 +223,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>ALTO</p>
+                                            <p> <strong>MUY ALTO</strong></p>
 
                                         </td>
 
@@ -234,7 +238,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>4 a 5 horas</p>
+                                            <p>5 a 6 horas</p>
 
                                         </td>
 
@@ -268,6 +272,8 @@
                                 <li>Abstenerse de participar: mujeres en estado de embarazo, personas que tengan problemas de salud complejos</li>
 
                                 <li><ins>Abstenerse de asistir si no se encuentra inscrito</ins></li>
+
+                                <li><strong>Llevar la tarjeta de tu llave cargada, se debe regresar en el SITP</strong></li>
                             </font>
 
                             <br>
